@@ -1,11 +1,16 @@
 <h1 align="center">Hello, I'm Tarun B</h1>
+
 <h3 align="center">Welcome to my GitHub profile! I'm a first-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
+
+-🎓 Currently pursuing B.Tech at PESU University
+
+-🌱 Exploring new technologies and enhancing my coding skills
 
 - 💖 Running an NGO dedicated to helping people in need [The Celestial Foundation](https://www.instagram.com/thecelestialfoundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 📫 How to reach me **tarunbasavaraju25@gmail.com**
+- 📫 How to reach me: **tarunbasavaraju25@gmail.com**
 
-- 📄 Know about my experiences [https://violet-collete-18.tiiny.site](https://violet-collete-18.tiiny.site)
+- 📄 Know about my experiences: [https://violet-collete-18.tiiny.site](https://violet-collete-18.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
