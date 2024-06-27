@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Tarun B</h1>
+<h1 align="center">Hello, I'm Tarun Basavaraju</h1>
 
 <h3 align="left">Welcome to my GitHub profile! I'm a first-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
 
@@ -8,12 +8,14 @@
 
 - 💖 Running an NGO dedicated to helping people in need [The Celestial Foundation](https://www.instagram.com/thecelestialfoundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 📫 How to reach me: **tarunbasavaraju25@gmail.com**
-
 - 📄 Know about my experiences: [https://violet-collete-18.tiiny.site](https://violet-collete-18.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  - 📫 How to reach me: **tarunbasavaraju25@gmail.com**
+
+  - 💼 LinkedIn: [Tarun B](www.linkedin.com/in/tarun-basavaraju-504b51315)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
