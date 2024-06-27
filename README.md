@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Tarun B</h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a first-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
+<h3 align="left">Welcome to my GitHub profile! I'm a first-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
 
 - 🎓 Currently pursuing B.Tech at PESU University
 
