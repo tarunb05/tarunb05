@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Tarun Basavaraju</h1>
 
-<h3 align="left">Welcome to my GitHub profile! I'm a first-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
+<h3 align="left">Welcome to my GitHub profile! I'm a second-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
 
 - 🎓 Currently pursuing B.Tech at PESU University
 
@@ -9,6 +9,8 @@
 - 💖 Running an NGO dedicated to helping people in need [The Celestial Foundation](https://www.instagram.com/thecelestialfoundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 - 📄 Know about my experiences: [Resume](https://violet-collete-18.tiiny.site)
+
+- 💼 Interned at Docxster
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
