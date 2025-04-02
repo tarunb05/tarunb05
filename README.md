@@ -8,7 +8,7 @@
 
 - 💖 Running an NGO dedicated to helping people in need [The Celestial Foundation](https://www.instagram.com/thecelestialfoundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 📄 Know about my experiences: [Resume](https://violet-collete-18.tiiny.site)
+- 📄 Know about my experiences: [Resume](https://flowcv.com/resume/uob8dgs71doi)
 
 - 💼 Interned at Docxster
 
