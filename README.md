@@ -8,9 +8,6 @@
 
 - 💖 Running an NGO dedicated to helping people in need [The Celestial Foundation](https://www.instagram.com/thecelestialfoundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 📄 Know about my experiences: [Resume](https://salmon-mela-18.tiiny.site)
-
-- 💼 Interned at Docxster
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
