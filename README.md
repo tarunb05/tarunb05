@@ -1,21 +1,42 @@
-<h1 align="center">Hello, I'm Tarun Basavaraju</h1>
+# Hi, I'm Tarun Basavaraju
 
-<h3 align="left">Welcome to my GitHub profile! I'm a second-year B.Tech student at PESU University with a passion for coding and making a difference in the world.</h3>
+**Software engineer** and final-year CSE student at PES University, Bengaluru (graduating 2027).
+I ship production software that real people use every day, and I build AI systems I can actually measure.
 
-- 🎓 Currently pursuing B.Tech at PESU University
+[Portfolio](https://tarunbasavaraju.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tarun-basavaraju-504b51315) · [Resume](https://tarunbasavaraju.vercel.app/resume.pdf) · tarunbasavaraju25@gmail.com
 
-- 🌱 Exploring new technologies and enhancing my coding skills
+---
 
-- 💖 Running an NGO dedicated to helping people in need [The Celestial Foundation](https://www.instagram.com/thecelestialfoundation?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+### What I've built
 
+**[EK Desk](https://github.com/tarunb05/EK_Desk)** · [live](https://ek-desk.vercel.app)
+A fee management app that two EuroKids preschool branches run on daily. It replaced paper registers and Excel for 300+ students. Paid client work, built solo.
+`Next.js 15` `TypeScript` `Supabase` `PostgreSQL` `Row Level Security` `Vitest` `Playwright`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  - 📫 How to reach me: **tarunbasavaraju25@gmail.com**
+**[ThirdEye](https://github.com/tarunb05/ThirdEye)** · [live](https://third-eye-capstone.vercel.app)
+A smart-contract auditor that runs entirely on your laptop: 8 specialist LLMs, evidence-gated verdicts, evaluated on 2,142 contracts. I owned the verdict engine, which cut false alarms from 72.2% to 45.9% at 89.1% recall. Research paper in progress.
+`Python` `FastAPI` `React` `Ollama` `ChromaDB` `Solidity`
 
-  - 💼 LinkedIn: [Tarun B](www.linkedin.com/in/tarun-basavaraju-504b51315)
-</p>
+**[ADA](https://github.com/umarahmed10/genai_batch_12)**
+An adaptive RAG assistant for research papers that beat a naive RAG baseline by 35% on correctness. Written up as an IEEE-format paper.
+`Python` `FAISS` `Ollama` `Streamlit`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Experience
+
+- **Freelance Software Engineer**, EuroKids Preschool · Aug 2026 – present
+- **Product Associate Intern**, Docxster (document AI startup) · Jul 2024
+
+### Tools I work with
+
+**Languages:** TypeScript, JavaScript, Python, C, C++, SQL
+**Web:** Next.js, React, FastAPI, Tailwind CSS
+**Data & cloud:** PostgreSQL, Supabase, AWS, Docker, Kafka, Spark, Linux
+**AI:** RAG, LLM evaluation, Ollama, FAISS, ChromaDB
+
+### Outside code
+
+Trustee of **The Celestial Foundation**, a registered NGO. Since 2023 we've run 6+ community projects reaching 1,800+ people.
+
+---
+
+Open to SDE internships and 2027 full-time roles, remote or relocating.
