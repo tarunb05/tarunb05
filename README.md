@@ -28,8 +28,8 @@ An adaptive RAG assistant for research papers that beat a naive RAG baseline by 
 
 ### Tools I work with
 
-**Languages:** TypeScript, JavaScript, Python, C, C++, SQL
-**Web:** Next.js, React, FastAPI, Tailwind CSS
+**Languages:** TypeScript, JavaScript, Python, Java, C, C++, SQL
+**Web:** Next.js, React, Spring Boot, Spring Security, FastAPI, Tailwind CSS
 **Data & cloud:** PostgreSQL, Supabase, AWS, Docker, Kafka, Spark, Linux
 **AI:** RAG, LLM evaluation, Ollama, FAISS, ChromaDB
 
