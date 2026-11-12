@@ -3,7 +3,7 @@
 **Software engineer** and final-year CSE student at PES University, Bengaluru (graduating 2027).
 I ship production software that real people use every day, and I build AI systems I can actually measure.
 
-[Portfolio](https://tarunbasavaraju.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tarun-basavaraju-504b51315) · [Resume](https://tarunbasavaraju.vercel.app/resume.pdf) · tarunbasavaraju25@gmail.com
+[Portfolio](https://tarunbasavaraju.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tarun-basavaraju-504b51315) · [Resume](https://tarunbasavaraju.vercel.app/tarun-basavaraju-resume.pdf) · tarunbasavaraju25@gmail.com
 
 ---
 
